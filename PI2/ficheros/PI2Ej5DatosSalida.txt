@@ -1,0 +1,11 @@
+Histograma: [6, 2, 5, 4, 5, 1, 6]
+Área máxima: 12
+
+Histograma: [1, 2, 3, 4, 5, 6]
+Área máxima: 12
+
+Histograma: [9, 2, 3, 9, 8, 7]
+Área máxima: 21
+
+Histograma: [3, 3, 2, 1]
+Área máxima: 6

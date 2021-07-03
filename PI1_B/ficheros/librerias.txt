@@ -1,0 +1,6 @@
+“Properties”> desplegar “C/C++ General” > “Paths and Symbols” > Includes
+> “Add…” > “File system…” seleccionar el directorio donde se ha descargado el repositorio anteriormente.> 
+Marcar las opciones “Add to all configurations” y “Add to all languages”> “Ok”
+
+Pestaña “Source Location” > “Link Floder…”> “Link to folder in the file system…” y seleccionar el directorio donde se ha descargado el
+repositorio anteriormente. > “Ok” > “Apply and Close”

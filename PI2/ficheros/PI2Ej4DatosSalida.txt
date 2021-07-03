@@ -1,0 +1,20 @@
+==================================== TEST RECURSIVO SIN MEMORIA ====================================
+Entrada = (10,1); Salida = 10
+Entrada = (9,2); Salida = 36
+Entrada = (8,3); Salida = 56
+Entrada = (7,4); Salida = 35
+Entrada = (6,5); Salida = 6
+
+==================================== TEST RECURSIVO CON MEMORIA ====================================
+Entrada = (10,1); Salida = 10
+Entrada = (9,2); Salida = 36
+Entrada = (8,3); Salida = 56
+Entrada = (7,4); Salida = 35
+Entrada = (6,5); Salida = 6
+
+==================================== TEST ITERATIVO ====================================
+Entrada = (10,1); Salida = 10
+Entrada = (9,2); Salida = 36
+Entrada = (8,3); Salida = 56
+Entrada = (7,4); Salida = 35
+Entrada = (6,5); Salida = 6
